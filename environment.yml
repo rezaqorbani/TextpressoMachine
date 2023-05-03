@@ -1,0 +1,16 @@
+name: textpresso
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - tensorflow>=2.12,<2.13
+      - transformers
+      - keras_nlp
+      - datasets
+      - huggingface-hub
+      - nltk
+      - jupyter
+      - ipywidgets
+      - rouge-score
