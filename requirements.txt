@@ -2,4 +2,4 @@ pip install transformers==4.20.0
 pip install keras_nlp==0.3.0
 pip install datasets
 pip install huggingface-hub
-pip install nltk
+pip install nltk 
