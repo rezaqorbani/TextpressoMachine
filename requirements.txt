@@ -1,3 +1,4 @@
+tensorflow==2.12.*
 transformers
 keras_nlp
 datasets
@@ -6,3 +7,4 @@ nltk
 jupyter 
 ipywidgets
 datasets
+rouge-score
