@@ -1,6 +1,4 @@
-tensorflow==2.12.*
-transformers
-keras_nlp
+pytorch
 datasets
 huggingface-hub
 nltk
