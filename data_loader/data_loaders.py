@@ -4,7 +4,7 @@ from datasets import load_dataset
 
 class XSumDataLoader():
     """
-    XSUM dataloader
+    XSUM dataset loader 
     """
     def __init__(self, tokenizer, max_input_length, max_target_length, prefix='summarize'):
       
