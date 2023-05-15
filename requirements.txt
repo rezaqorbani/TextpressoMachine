@@ -1,9 +1,7 @@
-torch
 datasets
-huggingface-hub
 nltk
 jupyter 
 ipywidgets
-datasets
 rouge-score
 transformers
+ipykernel
