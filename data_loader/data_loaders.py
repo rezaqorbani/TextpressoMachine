@@ -1,8 +1,7 @@
-
 from datasets import load_dataset
 
 
-class XSumDataLoader():
+class XSumDataLoader:
     """
     XSUM dataset loader 
     """
