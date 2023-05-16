@@ -1,0 +1,76 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.6",
+    "heartbeatAt": "2023-05-16T10:17:41.839433",
+    "startedAt": "2023-05-16T10:17:41.056120",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "git@github.com:rezaqorbani/TextpressoMachine.git",
+        "commit": "6fe1a5a4d2690ec930147346cb33a10bb40689ee"
+    },
+    "email": "reza3qorbani@gmail.com",
+    "root": "/home/reza/dev/repos/TextpressoMachine",
+    "host": "reza-laptop",
+    "username": "reza",
+    "executable": "/home/reza/dev/repos/TextpressoMachine/.venv/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2803.211,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2803.211,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2803.211,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2803.211,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2803.211,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2803.211,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2803.211,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2803.211,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2803.211,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 250.92389297485352,
+        "used": 96.28470611572266
+    },
+    "memory": {
+        "total": 7.62298583984375
+    }
+}
