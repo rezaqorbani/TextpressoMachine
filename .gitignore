@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 project_description.pdf
 notebooks/t5.ipynb
+notebooks/lightning_logs/
