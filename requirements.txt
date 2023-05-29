@@ -1,7 +1,13 @@
-datasets
 nltk
 jupyter 
 ipywidgets
-rouge-score
+torch
+pytorch_lightning
+# Hugging Face
+datasets
 transformers
 ipykernel
+#Metrics
+evaluate
+rouge-score
+bert_score

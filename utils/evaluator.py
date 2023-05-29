@@ -1,5 +1,6 @@
 from collections import Counter
 from datasets import load_metric
+import torch
 
 
 class Evaluator:
@@ -108,7 +109,7 @@ class Evaluator:
             return dp[m][n]
         
         
-def evaluate_model(test_data, model, tokenizer, metric):
+def evaluate_model(test_data, model, tokenizer, metric, device):
         precision, recall, f1 = [], [], []
 
         for example in test_data:
